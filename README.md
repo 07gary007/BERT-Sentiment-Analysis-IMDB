@@ -13,7 +13,7 @@ This project performs an end-to-end sentiment analysis on the **IMDB 50K Movie R
 *BERT achieved the highest accuracy, while SVM proved to be a highly efficient alternative for production environments.*
 
 ## 🛠️ Tech Stack
-- **Languages**: Python [cite: 411]
+- **Languages**: Python 
 - **Libraries**: PyTorch, Hugging Face Transformers, Scikit-learn, Pandas
 - **Deployment Idea**: Containerized using **Docker** for consistent environment reproduction.
 
