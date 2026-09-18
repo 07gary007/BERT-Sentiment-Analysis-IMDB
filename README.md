@@ -1,4 +1,4 @@
-# BERT vs. Traditional Models: A Comparative Study on Sentiment Analysis
+# BERT vs. Traditional Models: A Comparative Study on Sentiment Analysis   
 
 ## 🚀 Project Overview
 This project evaluates the effectiveness of various machine learning architectures—ranging from traditional statistical models to state-of-the-art Transformers—on the **IMDB 50K Movie Reviews dataset**. 
